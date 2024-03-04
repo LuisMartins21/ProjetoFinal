@@ -13,7 +13,7 @@ que toca a gestão de branches;
 de código, mas nunca a alteração de visibilidade do repositório (esta permissão deve
 ser dada apenas a proprietários do repositório);
 3. Tornar obrigatória a revisão de código antes de um pull request ser aprovado; &&FEITO&&
-4. Adicionar ficheiro .gitignore de forma a ignorar ficheiros, .docx e .doc;
+4. Adicionar ficheiro .gitignore de forma a ignorar ficheiros, .docx e .doc; &&FEITO&&
 5. Controlar as versões do relatório a entregar usando o repositório, sendo que é
 necessário que existam pelo menos:
 a. 1 carregamento inicial do ficheiro no branch develop;
