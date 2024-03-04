@@ -8,12 +8,12 @@ Neste projeto pretende-se que crie um repositório no GitHub, usando em primeira
 command line do Git.
 O repositório terá de ter as seguintes regras:
 1. Deve ter criados todos os branches necessários para a utilização do modelo GitFlow no
-que toca a gestão de branches;
+que toca a gestão de branches; !! FEITO !!
 2. Ter pelo menos dois níveis de acesso ao GitHub, permitindo a developers a submissão
 de código, mas nunca a alteração de visibilidade do repositório (esta permissão deve
 ser dada apenas a proprietários do repositório);
-3. Tornar obrigatória a revisão de código antes de um pull request ser aprovado; !!FEITO!!
-4. Adicionar ficheiro .gitignore de forma a ignorar ficheiros, .docx e .doc; !!FEITO!!
+3. Tornar obrigatória a revisão de código antes de um pull request ser aprovado; !! FEITO !!
+4. Adicionar ficheiro .gitignore de forma a ignorar ficheiros, .docx e .doc; !! FEITO !!
 5. Controlar as versões do relatório a entregar usando o repositório, sendo que é
 necessário que existam pelo menos:
 a. 1 carregamento inicial do ficheiro no branch develop;
