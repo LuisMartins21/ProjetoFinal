@@ -13,7 +13,7 @@ que toca a gestão de branches;
 de código, mas nunca a alteração de visibilidade do repositório (esta permissão deve
 ser dada apenas a proprietários do repositório);
 3. Tornar obrigatória a revisão de código antes de um pull request ser aprovado; &&FEITO&&
-4. Adicionar ficheiro .gitignore de forma a ignorar ficheiros, .docx e .doc; &&FEITO&&
+4. Adicionar ficheiro .gitignore de forma a ignorar ficheiros, .docx e .doc; &&FEITO&& 
 5. Controlar as versões do relatório a entregar usando o repositório, sendo que é
 necessário que existam pelo menos:
 a. 1 carregamento inicial do ficheiro no branch develop;
@@ -26,4 +26,4 @@ Estrutura do relatório final do projeto
 o a identificação do aluno;
 o o código git utilizado para a criação do repositório;
 o o link de acesso ao repositório;
-o demonstração das operações efetuadas no ponto 5 acima listado
+o demonstração das operações efetuadas no ponto 5 acima listado.
