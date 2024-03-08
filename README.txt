@@ -16,7 +16,7 @@ ser dada apenas a proprietários do repositório);
 4. Adicionar ficheiro .gitignore de forma a ignorar ficheiros, .docx e .doc; !! FEITO !!
 5. Controlar as versões do relatório a entregar usando o repositório, sendo que é
 necessário que existam pelo menos:
-a. 1 carregamento inicial do ficheiro no branch develop;
+a. 1 carregamento inicial do ficheiro no branch develop; !! FEITO !!
 b. 5 alterações no próprio branch develop com os devidos comentários;
 c. 1 release que contribua para o branch master;
 d. 1 hotfix efetuado utilizando a gestão de branches GitFlow;
